@@ -13,5 +13,10 @@ Searched for "dior" and scrapped the pricing information of all products in mult
 
 ![DJ website dior page 1](https://github.com/tltxyyy/Webscraping-with-Python-and-Selenium/assets/69724535/fe5bc772-de79-4e13-8ff7-37f8677c9c9c)
 
+<img width="1456" alt="image" src="https://github.com/tltxyyy/Webscraping-with-Python-and-Selenium/assets/69724535/7996c287-749f-4ebf-937f-df1a2a34a864">
+
+*Search results appears in multiple pages*
+
+
 The final output comes out as a table and is ready to be used for analysis.
 ![final output](https://github.com/tltxyyy/Webscraping-with-Python-and-Selenium/assets/69724535/ba569a15-0a97-4046-88fc-56d9168443ed)
