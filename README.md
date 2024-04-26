@@ -9,7 +9,7 @@ Utilizing Python's versatile scripting capabilities and Selenium's robust web au
 
 ## Sample extraction of product information
 
-Searched for "dior" and scrapped the pricing information of all products that appeared in search results.
+Searched for "dior" and scrapped the pricing information of all products in multiple pages that appeared in search results.
 
 ![DJ website dior page 1](https://github.com/tltxyyy/Webscraping-with-Python-and-Selenium/assets/69724535/fe5bc772-de79-4e13-8ff7-37f8677c9c9c)
 
