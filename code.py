@@ -26,7 +26,7 @@ search = driver.find_element("name", "q")
 # search = driver.find_element("link name", "Search David Jones")
 
 # search for sunglasses
-search.send_keys("dior")
+search.send_keys("sunglasses")
 search.send_keys(Keys.RETURN) # hit enter -> enter is return
 
 # Scrape page links and page number, combine into a data frame
