@@ -2,10 +2,10 @@
 
 ## Summary
 * Initiated and executed a web scraping side project utilizing Python and its Selenium library to extract pricing information from the website of David Jones, a leading departmental store chain.
-* Enabled competitive pricing analysis by comparing scraped data with internal pricing strategies. Empowered decision-making by providing actionable insights to optimize pricing strategies and enhance competitiveness in the retail market.
+* Enabled competitive pricing analysis by comparing scraped data with internal pricing strategies and margins. Empowered decision-making by providing actionable insights to optimize pricing strategies and enhance competitiveness in the retail market.
 
 ## Methodology
-Implemented Python scripts with Selenium automation to navigate through the website, extract product names, and gather pricing data. Overcame challenges such as dynamic webpage structures and anti-scraping measures through innovative solutions.
+Utilizing Python's versatile scripting capabilities and Selenium's robust web automation features, I engineered a solution to systematically navigate through David Jones' website and extract crucial data points such as product names and pricing information. The approach involved meticulous identification of relevant elements on the website, overcoming challenges such as dynamic webpage structures and ensuring accurate extraction while adhering to ethical scraping practices.
 
 ## Sample extraction of product information
 
